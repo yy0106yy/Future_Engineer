@@ -39,6 +39,15 @@ We try to controll the move Motor,so we learn how it works.
 
 Digital pin , a high current and a Low current can controll it to forward and reverse.
 
-Analog pin , can change the speed. 
+Analog pin , can change the speed. And we Successfully made the motor move.
 
 ![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/motor%20code.jpg)
+
+**Record Date：2022.2.5**
+
+**Members：CHEN,YO-YU、LI,CHEN-YU**
+
+**Content：**
+
+We found that the Steering of the remote control car was not very good ,so we decided to use lego to make the car by ourselves.
+We use differential to let the speed run faster while it is turning.
