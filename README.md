@@ -51,3 +51,5 @@ Analog pin , can change the speed. And we Successfully made the motor move.
 
 We found that the Steering of the remote control car was not very good ,so we decided to use lego to make the car by ourselves.
 We use differential to let the speed run faster while it is turning.
+
+![image]()
