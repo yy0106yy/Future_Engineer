@@ -53,3 +53,13 @@ We found that the Steering of the remote control car was not very good ,so we de
 We use differential to let the speed run faster while it is turning.
 
 ![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/differential.JPG)
+
+**Record Date：2022.2.12**
+
+**Members：CHEN,YO-YU、LI,CHEN-YU**
+
+**Content：**
+
+We finish our car and motor control,but we haven't got the degree of the motor.So today teacher teach us the way to get the degree.While we are testing ,we encountered some problem.The degree wasn't correct.When the speed goes fast,the degree rises more.It's because processor can't Calculate the angle and 
+other thing in the same time.So we use the hardware interrupt .When the Potential is changing.The interrupt will attach.And we can Calculate the angle the 
+angle int the interrupt.
