@@ -35,6 +35,10 @@ We lerned how to use arduino to controll our car and how the circuit system oper
 
 **Content：**
 
-We try to controll the move Motor,so we learn how it works.Digital pin , a high current and a Low current can controll it to forward and reverse.Analog pin , can change the speed. 
+We try to controll the move Motor,so we learn how it works.
 
-"C:\Users\user\Downloads\螢幕擷取畫面 2022-06-13 101447.jpg"
+Digital pin , a high current and a Low current can controll it to forward and reverse.
+
+Analog pin , can change the speed. 
+
+![image](https://github.com/yy0106yy/Future_Engineer/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-06-13%20101447.jpg)
