@@ -78,3 +78,6 @@ Today we learned how to use ultrasonic .We have two way to get the vlaue of the 
 
 (2)Another one is using interrupt.First discharge the ultrasonic,and continue work.When the ultrasonic receive,the program will go to execute the interrupt.And then  we can calculate the distance in it.It won't stuck the program. So we choose the second  idea.
 
+![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/US.jpg)
+
+![image]()
