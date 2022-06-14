@@ -65,3 +65,16 @@ other thing in the same time.So we use the hardware interrupt .When the Potentia
 angle in interrupt.
 
 ![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/degree%20interrupt.jpg)
+
+**Record Date：2022.2.19**
+
+**Members：CHEN,YO-YU、LI,CHEN-YU**
+
+**Content：**
+
+Today we learned how to use ultrasonic .We have two way to get the vlaue of the ultrasonic.
+
+(1)One is easier,but it will stuck the program because we need to wait for the ultrasonic receive.
+
+(2)Another one is using interrupt.First discharge the ultrasonic,and continue work.When the ultrasonic receive,the program will go to execute the interrupt.And then  we can calculate the distance in it.It won't stuck the program. So we choose the second  idea.
+
