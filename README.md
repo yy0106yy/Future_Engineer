@@ -81,3 +81,19 @@ Today we learned how to use ultrasonic .We have two way to get the vlaue of the 
 ![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/US.jpg)
 
 ![image](https://github.com/yy0106yy/Future_Engineer/blob/main/photos/US%20IRS.jpg)
+
+**Record Date：2022.2.28**
+
+**Members：CHEN,YO-YU、LI,CHEN-YU**
+
+**Content：**
+
+We learned to use servo motor to control turning.
+
+**Record Date：2022.3.5**
+
+**Members：CHEN,YO-YU、LI,CHEN-YU**
+
+**Content：**
+
+We tried to make a h 
